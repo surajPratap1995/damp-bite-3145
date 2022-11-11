@@ -1,0 +1,92 @@
+
+.navbar{
+    display: flex;
+    background-color:rgb(255,255,255);
+    align-items: center;
+    padding: 15px 0px 15px 25px;
+    gap: 45px;
+    border: .5px solid lightgrey;
+}
+.inputDiv{
+    display: flex;
+    width: 15%;
+    height: 20px;
+    /* border: 1px solid gray; */
+    
+    margin-left: 290px;
+   
+    margin-bottom: 8px;
+}
+.imageDiv{
+    width: 110px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+
+.inputSection{
+    width: 90%;
+    
+    border: 1px solid grey;
+    padding: 15px 5px;
+    
+    /* border: 1px solid tomato; */
+}
+.searchIcon{
+    width: 30px;
+    height: 21px;
+    background-color: white;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+   
+    padding: 15px 5px;
+    border: 1px solid grey;
+    /* margin-top: 5px; */
+    
+}
+.linksDiv{
+    display: flex;
+  
+    color: grey;
+    font-size: 16px;
+    
+    
+}
+.links1{
+    display: flex;
+    gap: 20px;
+    margin-left: 1%;
+    font-weight: 645;
+    font-size: 15px;
+    /* border: 1px solid teal; */
+}
+.links2{
+    display: flex;
+    
+   
+    /* border: 1px solid blueviolet; */
+    /* margin-left: 5px; */
+    font-size: 14px;
+    font-weight: 600;
+   
+}
+.links2Icons{
+    margin-left: 0px;
+    /* border: 1px solid grey; */
+   
+}
+.mainLink:hover{
+    text-decoration: 3px underline;
+    text-underline-offset: 10px;
+}
+.links2:hover{
+    text-decoration: 3px underline;
+    text-underline-offset: 10px;
+}
+.links2Icons:hover{
+    text-decoration: 3px underline;
+    text-underline-offset: 10px;
+}
