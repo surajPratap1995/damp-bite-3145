@@ -30,7 +30,7 @@
     border: 1px solid grey;
     padding: 17px 5px;
     
-    background-color:lightgrey;
+    background-color:rgb(244,244,244);
 }
 .searchIcon{
     width: 30px;
@@ -45,7 +45,7 @@
     padding: 17px 5px;
     border: 1px solid grey;
     /* margin-top: 5px; */
-    background-color:lightgrey;
+    background-color:rgb(244,244,244);
     
 }
 .linksDiv{

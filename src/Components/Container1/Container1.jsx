@@ -1,7 +1,7 @@
 
 const Box1=()=>
 {
-    return <div style={{border:"1px solid lightGray", width:"100%" ,height:"50px"}}>
+    return <div style={{border:"1px solid lightGray", width:"100%" ,height:"50px",backgroundColor:"white"}}>
         <div style={{display:"flex",justifyContent:"center",textAlign:"center" ,gap:"40px",color:"grey",marginTop:"10px"}}>
             <div>Mack Up</div>
             <div>Skin </div>

@@ -15,7 +15,7 @@ const Navbar=()=>
         navigate("/")
     }
     return (
-        <div>
+        
             
             <div className={styles.navbar} style={{backgroundColor:"rgb(255,255,255)",position:"sticky", top:"0px",zIndex:"1"}}>
             <div className={styles.imageDiv}>
@@ -51,7 +51,7 @@ const Navbar=()=>
                   
                 </div>
         </div>
-        </div>
+        
     )
 }
 export default Navbar;
